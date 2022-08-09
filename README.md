@@ -1,7 +1,6 @@
 # TSeed - best seed parser
 ### Цены:
-> - Месяц: 100$
-> - Навсегда: 250$
+> - Навсегда: 80$
 
 ### Связь и покупка:
 > - [Telegram](https://t.me/zcxw_lolz)
