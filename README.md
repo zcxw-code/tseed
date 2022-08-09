@@ -4,7 +4,7 @@
 > - Навсегда: 250$
 
 ### Связь и покупка:
-> - [Telegram](https://t.me/except_lolz)
+> - [Telegram](https://t.me/zcxw_lolz)
 > - [TelegramBot](https://t.me/tseedparserBot)
 
 ### Функционал:
